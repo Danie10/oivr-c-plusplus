@@ -8,6 +8,9 @@ In 1993 I was learning Borland C++ so ported the same app over as part of my lea
 # Screenshots
 These are from original test printouts in 1993.
 
+![Main print out](assets/IMG_1974.jpg)
+
+![Progressions for Y](assets/IMG_1975.jpg)
 
 # Files:
 * OVIR.C - the source code
