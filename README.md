@@ -5,6 +5,10 @@ This is my second software application I ever wrote for work (my fisrt being an 
 
 In 1993 I was learning Borland C++ so ported the same app over as part of my learning. Back then too, there was no Internet or Google Search, so what I learnt, I learnt from books I bought (still have them actually). It is interesting to see that the code is less than half of what I wrote for the original version in Quick Basic.
 
+# Screenshots
+These are from original test printouts in 1993.
+
+
 # Files:
 * OVIR.C - the source code
 * OIVR.EXE - original 16-bit Windows version you could try running (won't rin on 64-bit Windows)
